@@ -1,0 +1,6 @@
+admin:password
+Narendra:naru
+naru:1234
+Naru:1234
+jagu:0987
+vce04:0987
